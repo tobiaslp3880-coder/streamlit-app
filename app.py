@@ -6,8 +6,8 @@ st.title("Links")
 st.write("---")
 
 # Reemplazá por tus links reales
-GITHUB_URL = "https://github.com/TuUsuario/mi_streamlit_app"
-STREAMLIT_URL = "https://mi-app-usuario.streamlit.app"
+GITHUB_URL = "https://github.com/tobiaslp3880-coder/streamlit-app"
+STREAMLIT_URL = "https://app-app-vr9ytr3qsneubr9u8ggxiw.streamlit.app/"
 
 texto = f"""
 1. repo de GitHub: {GITHUB_URL}
